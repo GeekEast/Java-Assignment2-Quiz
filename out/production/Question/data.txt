@@ -1,0 +1,50 @@
+How often do you play tennis?-a. On Tuesday.   b. For two hours.   c. Almost every day.   d. With John.-c-1
+What kind of novels do you like?-a. Yes I do.   b. I like spy novels.-b-1
+How many hours a day do you watch TV?-a. About two hours.   b. In my living room.   c. I watch the news.   d. On Tuesday.- a-1
+How do you spell "dog"?-a. No   b.  D O G   c. No   d. I don't   e. Cat.   f. I have one dog.-b-1
+What do you like to drink?-a. Coffee.   b. Saturday evening.   c. Two.   d. With my friends.-a-1
+What are you doing?-a. I'm eating.   b. I ate.   c. I will be eating.   d. I have eaten.-a-1
+It seems to me that most restaurants are too expensive.-a. I don't think it.   b. I don't think.   c. I don't think so.-c-1
+Where's Mike?-a. At school.   b. At eight.   c. For three hours.   d. No, he isn't.-a-1
+Where do you do your homework?-a. With John.   b. In the evening.   c. About one hour.   d. Every day.   e. At home.-e-1
+When was the last time you took a picture?-a. A picture of Jane.   b. Seven pictures.   c. About four days ago.   d. With my camera.-c-1
+If you drive ___ don't be surprised if you have an accident.-a. recklessly   b. reckless-a-2
+It was not a hard assignment because Dr. Brown explained it ___.-a. careful   b. carefully-b-2
+Be ___ to visitors if you want them to come back to your country.-a. pleasant   b. pleasantly-a-2
+I could not sleep ___ last night, so I feel ___ today.-a. good, horrible   b. well, horrible   c. well, horribly-b-2
+He speaks so ___ that I can't understand him.-a. fast   b. fastly-a-2
+Driving at night can be very ___ sometimes.-a. dangerous   b. dangerously-a-2
+It goes without ___ that John is the best student in his class.-a. saying   b. say   c. telling   d. tell-a-2
+Do as I ___ , not as I do.-a. said   b. told   c. say   d. tell-c-2
+CUSTOMER: I need to return ___ radio.-a. this   b. your-a-2
+CLERK: Do you want to return it or ___ it for another one?-a. exchange   b. cash-a-2
+Einstein won ___ Nobel Prize in Physics in 1921.-a. a   b. an   c. the   d. X [Nothing]-c-3
+Roentgen was ___ German physicist who discovered xrays, revolutionizing medical diagnosis.-a. a   b. an   c. the   d. X [Nothing]-a-3
+The winner of the competition was ___ the drawing room.-a. on   b. in   c. at-b-3
+The judge poured champagne ___ the glass.-a. into   b. on   c. inside-a-3
+The hanging light is ___ the table.-a. in   b. over   c. at-b-3
+He's arriving from Europe ___ Wednesday.-a. at   b. on   c. of-b-3
+There were ___ magazines in the convenience store.-a. none   b. no   c. any-b-4
+The computational speed of computers ___ doubled in the last decade.-a. have   b. has   c. will-b-4
+He ___ me to go to the store and get some milk.-a. told   b. said   c. spoke-a-4
+The dog walked ___ the road to find his master.-a. alonge   b. lone   c. along-c-4
+Identical twins often appear exactly ___ .-a. look   b. alike   c. like-b-4
+At the end of the night the girls were fast ___ .-a. asleep   b. sleeping   c. sleep-a-4
+By the time dinner began ___ bottles of milk had spoiled.-a. double   b. each   c. both-c-4
+There was ___ much snow that school was canceled.-a. size   b. so   c. such-b-4
+The acronym FIFA ___ Federation Internationale de Football Association.-a. stays for   b. stands for   c. strikes for-b-4
+___ Thanksgiving, we usually eat cranberry sauce with our roasted turkey.-a. On   b.In-a-4
+He came ___ the decision that he should study harder.-a. with   b. to-b-4
+Astronomers study the planets ___ our solar system.-a. among   b. below   c. in-c-4
+The Chinese Wall can be seen ___ the moon.-a. along   b. from   c. through-b-4
+Lunar months are ___ than our months.-a. more short   b. shorter   c. shortier-b-4
+Hurricane season ___ June 1 and ___ November 30.-a. stops, moves   b. begins, ends   c. badly, worst   d. circles, runs-b-5
+The dangers of a storm ___ torrential rains, high winds and storm surges.-a. include   b. includes   c. including   d. to include-a-5
+The strongest hurricane recorded was the Florida Keys Storm of 1935. 500 people ___ during this Category 5 storm.-a. has killed   b. were killed   c. not killed   d. are killing-b-5
+Category One storms ___ have some coastal road flooding and minor pier damage.-a. will   b. don't   c. shouldn't   d. never-a-5
+Category Four storms ___ massive evacuation of residential areas inland as far as 6 miles.-a. requires   b. requiring   c. require   d. to require-c-5
+Category Five hurricanes ___ cause complete roof failure on many residences and industrial buildings.-a. will   b. didn't   c. won't   d. might-a-5
+___ is used to mark the end of declarative and imperative sentences.-a. A period   b. A comma   c. A semicolon-a-6
+When a comma is used ___ meaning is ___.-a. inappropriately, maintained   b. appropriately, changed   c. inappropriately, changed-c-6
+To enclose cross references one uses ___.-a. parentheses   b. hyphens   c. question marks-a-6
+___ is used at the end of a sentence or remark to express strong emotion.-a. An exclamation mark   b. A question mark   c. A quotation mark-a-6
